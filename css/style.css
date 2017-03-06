@@ -1,0 +1,34 @@
+body{
+  background-color: #87CEFA;
+  text-align: center;
+  font-family: Verdana;
+}
+.QuoteBox{
+  background-color: #ffffff;
+  width: 500px;
+  height: auto;
+  margin: 0 auto;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: -10px 10px 20px rgba(100,100,100,.8);
+  	color: #00BFFF;
+}
+
+.ButtonBox{
+  margin-top: 25px;
+}
+
+h2{
+  margin-bottom: 50px;
+  color: white;
+}
+
+#quote{
+  font-size: 1.6em;
+}
+
+#author{
+  font-size: 1.2em;
+  font-style: italic;
+  margin-top: 5px;
+}
